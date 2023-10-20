@@ -1,2 +1,1 @@
-# Customer_Churn
-Customer_Churn_Dataset
+This is customer churn dataset project
